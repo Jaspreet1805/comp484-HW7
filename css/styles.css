@@ -1,0 +1,74 @@
+/* Color Palette
+#1B263B - color 1
+#415A77 - color 2
+#E0E1DD - color 3
+#FFFFFF - color 4
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    /*background: lightblue;*/
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #1B263B;
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+/* Header & Footer 
+------------------------------------*/
+header {
+    background-color: #1B263B;
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+header img {
+    width: 200px;
+}
+
+footer {
+    background-color: #415A77;
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+footer a {
+    color: #FFFFFF;
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work {
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+
+
+/* Education
+------------------------------------*/
+.education {
+    background-color: #E0E1DD;
+    padding: 30px;
+}
